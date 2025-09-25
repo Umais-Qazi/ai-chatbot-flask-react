@@ -1,0 +1,10 @@
+﻿# Python
+backend/.venv/
+__pycache__/
+
+# Node
+frontend/node_modules/
+
+# Secrets
+backend/.env
+backend/api/
